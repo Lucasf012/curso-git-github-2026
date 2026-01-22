@@ -10,3 +10,12 @@ Além disso, vamos trabalhar com GitFlow ao final do curso e VS.
 
 
 
+----
+
+
+
+Pessoas participantes :
+
+
+
+* Lucas
